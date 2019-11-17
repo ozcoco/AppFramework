@@ -1,0 +1,5 @@
+/run/media/ozcomcn/^_^/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo
+status/run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo/main.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo/cmake-build-debug

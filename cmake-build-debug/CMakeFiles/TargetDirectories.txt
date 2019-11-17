@@ -1,0 +1,6 @@
+/run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo/cmake-build-debug/CMakeFiles/SerialPortDemo.dir
+/run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo/cmake-build-debug/core/CMakeFiles/rebuild_cache.dir
+/run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo/cmake-build-debug/core/CMakeFiles/core.dir
+/run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo/cmake-build-debug/core/CMakeFiles/edit_cache.dir

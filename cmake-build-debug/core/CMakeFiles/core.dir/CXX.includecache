@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/ozcomcn/^_^/Repo/c++/SerialPortDemo/main.cpp
+iostream
+-
+map
+-
+queue
+-
+algorithm
+-
+thread
+-
+chrono
+-
+
